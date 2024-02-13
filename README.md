@@ -10,7 +10,7 @@
 
 ### This repository contains:
 
- - **nothing from Minecraft,except maybe textures**
+ - **nothing from Minecraft, except maybe textures**
 
 ### This repository does NOT contain:
 
